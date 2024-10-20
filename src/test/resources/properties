@@ -1,3 +1,3 @@
-appUrl = https://dev.medtronic.cyb.co.uk/
-email = admin@mailinator.com
-password = Password4@
+adminUrl = https://dev.medtronic.cyb.co.uk/
+adminEmail = admin@mailinator.com
+adminPassword = Password4@

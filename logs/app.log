@@ -1,0 +1,1530 @@
+2024-10-15 10:23:46 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-15 10:24:02 [main] INFO  testCase.TC002_ForgetPassword - ***Verify Forget Page***
+2024-10-15 10:24:02 [main] INFO  testCase.TC002_ForgetPassword - ***Open the login page***
+2024-10-15 10:24:02 [main] INFO  testCase.TC002_ForgetPassword - ***Forget Link selected***
+2024-10-15 10:24:03 [main] INFO  testCase.TC002_ForgetPassword - ***Email id entered***
+2024-10-15 10:24:03 [main] INFO  testCase.TC002_ForgetPassword - ***Submitted***
+2024-10-15 10:24:22 [main] INFO  testCase.TC001_LoginPage - ***Open the login page***
+2024-10-15 10:24:23 [main] INFO  testCase.TC001_LoginPage - ***LoggedIn Success***
+2024-10-15 10:24:28 [main] INFO  testCase.TC001_LoginPage - ***Captcha updated***
+2024-10-15 10:24:38 [main] ERROR testCase.TC001_LoginPage - Test failed
+2024-10-15 10:25:58 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-15 10:26:19 [main] INFO  testCase.TC002_ForgetPassword - ***Verify Forget Page***
+2024-10-15 10:26:19 [main] INFO  testCase.TC002_ForgetPassword - ***Open the login page***
+2024-10-15 10:26:20 [main] INFO  testCase.TC002_ForgetPassword - ***Forget Link selected***
+2024-10-15 10:26:20 [main] INFO  testCase.TC002_ForgetPassword - ***Email id entered***
+2024-10-15 10:26:20 [main] INFO  testCase.TC002_ForgetPassword - ***Submitted***
+2024-10-15 10:26:30 [main] INFO  testCase.TC001_LoginPage - ***Open the login page***
+2024-10-15 10:26:31 [main] INFO  testCase.TC001_LoginPage - ***LoggedIn Success***
+2024-10-15 10:26:34 [main] INFO  testCase.TC001_LoginPage - ***Captcha updated***
+2024-10-15 10:26:44 [main] ERROR testCase.TC001_LoginPage - Test failed
+2024-10-15 10:28:23 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-15 10:28:40 [main] INFO  testCase.TC002_ForgetPassword - ***Verify Forget Page***
+2024-10-15 10:28:40 [main] INFO  testCase.TC002_ForgetPassword - ***Open the login page***
+2024-10-15 10:28:40 [main] INFO  testCase.TC002_ForgetPassword - ***Forget Link selected***
+2024-10-15 10:28:41 [main] INFO  testCase.TC002_ForgetPassword - ***Email id entered***
+2024-10-15 10:28:41 [main] INFO  testCase.TC002_ForgetPassword - ***Submitted***
+2024-10-15 10:29:20 [main] INFO  testCase.TC001_LoginPage - ***Open the login page***
+2024-10-15 10:29:20 [main] INFO  testCase.TC001_LoginPage - ***LoggedIn Success***
+2024-10-15 10:29:23 [main] INFO  testCase.TC001_LoginPage - ***Captcha updated***
+2024-10-15 10:29:33 [main] ERROR testCase.TC001_LoginPage - Test failed
+2024-10-15 10:30:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-15 10:30:18 [main] INFO  testCase.TC002_ForgetPassword - ***Verify Forget Page***
+2024-10-15 10:30:18 [main] INFO  testCase.TC002_ForgetPassword - ***Open the login page***
+2024-10-15 10:30:32 [main] INFO  testCase.TC002_ForgetPassword - ***Forget Link selected***
+2024-10-15 10:30:32 [main] INFO  testCase.TC002_ForgetPassword - ***Email id entered***
+2024-10-15 10:30:32 [main] INFO  testCase.TC002_ForgetPassword - ***Submitted***
+2024-10-15 10:30:35 [main] INFO  testCase.TC001_LoginPage - ***Open the login page***
+2024-10-15 10:30:46 [main] INFO  testCase.TC001_LoginPage - ***LoggedIn Success***
+2024-10-15 10:30:49 [main] INFO  testCase.TC001_LoginPage - ***Captcha updated***
+2024-10-15 10:30:58 [main] INFO  testCase.TC001_LoginPage - ***OTP Entered***
+2024-10-15 10:30:58 [main] INFO  testCase.TC001_LoginPage - ***Submitted***
+2024-10-15 10:31:01 [main] INFO  testCase.TC001_LoginPage - ***Home Title verified***
+2024-10-15 12:34:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-15 12:34:16 [main] INFO  testCase.TC002_ForgetPassword - ***Verify Forget Page***
+2024-10-15 12:34:16 [main] INFO  testCase.TC002_ForgetPassword - ***Open the login page***
+2024-10-15 12:34:23 [main] INFO  testCase.TC001_LoginPage - ***Open the login page***
+2024-10-15 12:34:24 [main] INFO  testCase.TC001_LoginPage - ***LoggedIn Success***
+2024-10-15 12:34:26 [main] INFO  testCase.TC001_LoginPage - ***Captcha updated***
+2024-10-15 12:34:37 [main] INFO  testCase.TC001_LoginPage - ***OTP Entered***
+2024-10-15 12:34:38 [main] INFO  testCase.TC001_LoginPage - ***Submitted***
+2024-10-15 12:34:40 [main] INFO  testCase.TC001_LoginPage - ***Home Title verified***
+2024-10-15 12:36:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-15 12:36:59 [main] INFO  testCase.TC001_LoginPage - ***Open the login page***
+2024-10-15 12:37:04 [main] INFO  testCase.TC001_LoginPage - ***LoggedIn Success***
+2024-10-15 12:37:07 [main] INFO  testCase.TC001_LoginPage - ***Captcha updated***
+2024-10-15 12:37:18 [main] ERROR testCase.TC001_LoginPage - Test failed
+2024-10-15 12:37:23 [main] INFO  testCase.TC002_ForgetPassword - ***Verify Forget Page***
+2024-10-15 12:37:23 [main] INFO  testCase.TC002_ForgetPassword - ***Open the login page***
+2024-10-15 12:37:24 [main] INFO  testCase.TC002_ForgetPassword - ***Forget Link selected***
+2024-10-15 12:37:24 [main] INFO  testCase.TC002_ForgetPassword - ***Email id entered***
+2024-10-15 12:37:24 [main] INFO  testCase.TC002_ForgetPassword - ***Submitted***
+2024-10-15 12:37:57 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-15 12:38:03 [main] INFO  testCase.TC001_LoginPage - ***Open the login page***
+2024-10-15 12:38:04 [main] INFO  testCase.TC001_LoginPage - ***LoggedIn Success***
+2024-10-15 12:38:07 [main] INFO  testCase.TC001_LoginPage - ***Captcha updated***
+2024-10-15 12:38:16 [main] INFO  testCase.TC001_LoginPage - ***OTP Entered***
+2024-10-15 12:38:16 [main] INFO  testCase.TC001_LoginPage - ***Submitted***
+2024-10-15 12:38:19 [main] INFO  testCase.TC001_LoginPage - ***Home Title verified***
+2024-10-15 12:38:27 [main] INFO  testCase.TC002_ForgetPassword - ***Verify Forget Page***
+2024-10-15 12:38:27 [main] INFO  testCase.TC002_ForgetPassword - ***Open the login page***
+2024-10-15 12:38:28 [main] INFO  testCase.TC002_ForgetPassword - ***Forget Link selected***
+2024-10-15 12:38:28 [main] INFO  testCase.TC002_ForgetPassword - ***Email id entered***
+2024-10-15 12:38:28 [main] INFO  testCase.TC002_ForgetPassword - ***Submitted***
+2024-10-15 12:46:40 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\testng.xml
+
+2024-10-15 12:46:43 [main] INFO  testCase.TC001_LoginPage - ***Open the login page***
+2024-10-15 12:46:47 [main] INFO  testCase.TC001_LoginPage - ***LoggedIn Success***
+2024-10-15 12:46:49 [main] INFO  testCase.TC001_LoginPage - ***Captcha updated***
+2024-10-15 12:47:00 [main] ERROR testCase.TC001_LoginPage - Test failed
+2024-10-15 12:47:07 [main] INFO  testCase.TC002_ForgetPassword - ***Verify Forget Page***
+2024-10-15 12:47:07 [main] INFO  testCase.TC002_ForgetPassword - ***Open the login page***
+2024-10-15 12:47:08 [main] INFO  testCase.TC002_ForgetPassword - ***Forget Link selected***
+2024-10-15 12:47:08 [main] INFO  testCase.TC002_ForgetPassword - ***Email id entered***
+2024-10-15 12:47:08 [main] INFO  testCase.TC002_ForgetPassword - ***Submitted***
+2024-10-15 12:47:18 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\testng.xml
+
+2024-10-15 12:47:23 [main] INFO  testCase.TC001_LoginPage - ***Open the login page***
+2024-10-15 12:47:24 [main] INFO  testCase.TC001_LoginPage - ***LoggedIn Success***
+2024-10-15 12:47:26 [main] INFO  testCase.TC001_LoginPage - ***Captcha updated***
+2024-10-15 12:47:37 [main] ERROR testCase.TC001_LoginPage - Test failed
+2024-10-15 12:47:40 [main] INFO  testCase.TC002_ForgetPassword - ***Verify Forget Page***
+2024-10-15 12:47:40 [main] INFO  testCase.TC002_ForgetPassword - ***Open the login page***
+2024-10-15 12:47:50 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\testng.xml
+
+2024-10-15 12:47:55 [main] INFO  testCase.TC001_LoginPage - ***Open the login page***
+2024-10-15 12:47:56 [main] INFO  testCase.TC001_LoginPage - ***LoggedIn Success***
+2024-10-15 12:47:58 [main] INFO  testCase.TC001_LoginPage - ***Captcha updated***
+2024-10-15 12:48:09 [main] INFO  testCase.TC001_LoginPage - ***OTP Entered***
+2024-10-15 12:48:09 [main] INFO  testCase.TC001_LoginPage - ***Submitted***
+2024-10-15 12:48:12 [main] INFO  testCase.TC001_LoginPage - ***Home Title verified***
+2024-10-15 12:48:14 [main] INFO  testCase.TC002_ForgetPassword - ***Verify Forget Page***
+2024-10-15 12:48:14 [main] INFO  testCase.TC002_ForgetPassword - ***Open the login page***
+2024-10-15 12:48:19 [main] INFO  testCase.TC002_ForgetPassword - ***Forget Link selected***
+2024-10-15 12:48:19 [main] INFO  testCase.TC002_ForgetPassword - ***Email id entered***
+2024-10-15 12:48:19 [main] INFO  testCase.TC002_ForgetPassword - ***Submitted***
+2024-10-15 12:48:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-15 12:48:59 [main] INFO  testCase.TC001_LoginPage - ***Open the login page***
+2024-10-15 12:49:02 [main] INFO  testCase.TC001_LoginPage - ***LoggedIn Success***
+2024-10-15 12:49:04 [main] INFO  testCase.TC001_LoginPage - ***Captcha updated***
+2024-10-15 12:49:13 [main] INFO  testCase.TC001_LoginPage - ***OTP Entered***
+2024-10-15 12:49:13 [main] INFO  testCase.TC001_LoginPage - ***Submitted***
+2024-10-15 12:49:16 [main] INFO  testCase.TC001_LoginPage - ***Home Title verified***
+2024-10-15 12:49:22 [main] INFO  testCase.TC002_ForgetPassword - ***Verify Forget Page***
+2024-10-15 12:49:22 [main] INFO  testCase.TC002_ForgetPassword - ***Open the login page***
+2024-10-15 12:49:23 [main] INFO  testCase.TC002_ForgetPassword - ***Forget Link selected***
+2024-10-15 12:49:23 [main] INFO  testCase.TC002_ForgetPassword - ***Email id entered***
+2024-10-15 12:49:23 [main] INFO  testCase.TC002_ForgetPassword - ***Submitted***
+2024-10-15 12:49:28 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-15 12:52:21 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-15 12:52:29 [main] INFO  testCase.TC001_LoginPage - ***Open the login page***
+2024-10-15 12:52:30 [main] INFO  testCase.TC001_LoginPage - ***LoggedIn Success***
+2024-10-15 12:52:32 [main] INFO  testCase.TC001_LoginPage - ***Captcha updated***
+2024-10-15 12:52:34 [main] INFO  testCase.TC001_LoginPage - ***OTP Entered***
+2024-10-15 12:52:35 [main] INFO  testCase.TC001_LoginPage - ***Submitted***
+2024-10-15 12:52:37 [main] INFO  testCase.TC001_LoginPage - ***Home Title verified***
+2024-10-15 12:52:40 [main] INFO  testCase.TC002_ForgetPassword - ***Verify Forget Page***
+2024-10-15 12:52:40 [main] INFO  testCase.TC002_ForgetPassword - ***Open the login page***
+2024-10-15 12:52:44 [main] INFO  testCase.TC002_ForgetPassword - ***Forget Link selected***
+2024-10-15 12:52:44 [main] INFO  testCase.TC002_ForgetPassword - ***Email id entered***
+2024-10-15 12:52:44 [main] INFO  testCase.TC002_ForgetPassword - ***Submitted***
+2024-10-15 12:52:49 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-15 12:52:50 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-15 12:52:52 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-15 12:53:24 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-15 12:53:39 [main] INFO  testCase.TC001_LoginPage - ***Open the login page***
+2024-10-15 12:53:39 [main] INFO  testCase.TC001_LoginPage - ***LoggedIn Success***
+2024-10-15 12:53:41 [main] INFO  testCase.TC001_LoginPage - ***Captcha updated***
+2024-10-15 12:53:49 [main] INFO  testCase.TC001_LoginPage - ***OTP Entered***
+2024-10-15 12:53:49 [main] INFO  testCase.TC001_LoginPage - ***Submitted***
+2024-10-15 12:53:52 [main] INFO  testCase.TC001_LoginPage - ***Home Title verified***
+2024-10-15 12:53:57 [main] INFO  testCase.TC002_ForgetPassword - ***Verify Forget Page***
+2024-10-15 12:53:57 [main] INFO  testCase.TC002_ForgetPassword - ***Open the login page***
+2024-10-15 12:53:58 [main] INFO  testCase.TC002_ForgetPassword - ***Forget Link selected***
+2024-10-15 12:53:58 [main] INFO  testCase.TC002_ForgetPassword - ***Email id entered***
+2024-10-15 12:53:58 [main] INFO  testCase.TC002_ForgetPassword - ***Submitted***
+2024-10-15 12:54:00 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-15 12:54:15 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-15 12:54:17 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-15 12:54:22 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-15 12:54:22 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-15 12:56:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-15 12:56:53 [main] INFO  testCase.TC001_LoginPage - ***Open the login page***
+2024-10-15 12:56:53 [main] INFO  testCase.TC001_LoginPage - ***LoggedIn Success***
+2024-10-15 12:56:56 [main] INFO  testCase.TC001_LoginPage - ***Captcha updated***
+2024-10-15 12:56:57 [main] INFO  testCase.TC001_LoginPage - ***OTP Entered***
+2024-10-15 12:56:57 [main] INFO  testCase.TC001_LoginPage - ***Submitted***
+2024-10-15 12:57:00 [main] INFO  testCase.TC001_LoginPage - ***Home Title verified***
+2024-10-15 12:57:04 [main] INFO  testCase.TC002_ForgetPassword - ***Verify Forget Page***
+2024-10-15 12:57:04 [main] INFO  testCase.TC002_ForgetPassword - ***Open the login page***
+2024-10-15 12:57:07 [main] INFO  testCase.TC002_ForgetPassword - ***Forget Link selected***
+2024-10-15 12:57:07 [main] INFO  testCase.TC002_ForgetPassword - ***Email id entered***
+2024-10-15 12:57:07 [main] INFO  testCase.TC002_ForgetPassword - ***Submitted***
+2024-10-15 12:57:17 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-15 12:57:18 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-15 12:57:20 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-15 12:57:26 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-15 12:57:26 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-15 22:56:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-15 22:56:34 [main] INFO  testCase.TC001_LoginPage - ***Open the login page***
+2024-10-15 22:56:35 [main] INFO  testCase.TC001_LoginPage - ***LoggedIn Success***
+2024-10-15 22:56:37 [main] INFO  testCase.TC001_LoginPage - ***Captcha updated***
+2024-10-15 22:56:48 [main] ERROR testCase.TC001_LoginPage - Test failed
+2024-10-15 22:56:53 [main] INFO  testCase.TC002_ForgetPassword - ***Verify Forget Page***
+2024-10-15 22:56:53 [main] INFO  testCase.TC002_ForgetPassword - ***Open the login page***
+2024-10-15 22:56:57 [main] INFO  testCase.TC002_ForgetPassword - ***Forget Link selected***
+2024-10-15 22:56:57 [main] INFO  testCase.TC002_ForgetPassword - ***Email id entered***
+2024-10-15 22:56:57 [main] INFO  testCase.TC002_ForgetPassword - ***Submitted***
+2024-10-15 22:57:09 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-15 22:57:09 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-15 22:57:12 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-15 22:59:18 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-15 22:59:28 [main] INFO  testCase.TC001_LoginPage - ***Open the login page***
+2024-10-15 22:59:30 [main] INFO  testCase.TC001_LoginPage - ***LoggedIn Success***
+2024-10-15 22:59:32 [main] INFO  testCase.TC001_LoginPage - ***Captcha updated***
+2024-10-15 22:59:33 [main] INFO  testCase.TC001_LoginPage - ***OTP Entered***
+2024-10-15 22:59:33 [main] INFO  testCase.TC001_LoginPage - ***Submitted***
+2024-10-15 22:59:37 [main] INFO  testCase.TC001_LoginPage - ***Home Title verified***
+2024-10-15 22:59:42 [main] INFO  testCase.TC002_ForgetPassword - ***Verify Forget Page***
+2024-10-15 22:59:42 [main] INFO  testCase.TC002_ForgetPassword - ***Open the login page***
+2024-10-15 22:59:47 [main] INFO  testCase.TC002_ForgetPassword - ***Forget Link selected***
+2024-10-15 22:59:47 [main] INFO  testCase.TC002_ForgetPassword - ***Email id entered***
+2024-10-15 22:59:47 [main] INFO  testCase.TC002_ForgetPassword - ***Submitted***
+2024-10-15 22:59:52 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-15 22:59:53 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-15 22:59:57 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-15 23:00:12 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-15 23:01:30 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-15 23:01:33 [main] INFO  testCase.TC001_LoginPage - ***Open the login page***
+2024-10-15 23:01:48 [main] INFO  testCase.TC001_LoginPage - ***LoggedIn Success***
+2024-10-15 23:01:50 [main] INFO  testCase.TC001_LoginPage - ***Captcha updated***
+2024-10-15 23:01:53 [main] INFO  testCase.TC001_LoginPage - ***OTP Entered***
+2024-10-15 23:01:53 [main] INFO  testCase.TC001_LoginPage - ***Submitted***
+2024-10-15 23:01:56 [main] INFO  testCase.TC001_LoginPage - ***Home Title verified***
+2024-10-15 23:02:03 [main] INFO  testCase.TC002_ForgetPassword - ***Verify Forget Page***
+2024-10-15 23:02:03 [main] INFO  testCase.TC002_ForgetPassword - ***Open the login page***
+2024-10-15 23:02:04 [main] INFO  testCase.TC002_ForgetPassword - ***Forget Link selected***
+2024-10-15 23:02:04 [main] INFO  testCase.TC002_ForgetPassword - ***Email id entered***
+2024-10-15 23:02:04 [main] INFO  testCase.TC002_ForgetPassword - ***Submitted***
+2024-10-15 23:02:22 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-15 23:02:23 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-15 23:02:25 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-15 23:02:27 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-15 23:02:27 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-15 23:02:27 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\AppData\Local\Temp\testng-eclipse-372443191\testng-customsuite.xml
+
+2024-10-15 23:04:59 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+2024-10-15 23:05:00 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6175619b: 126 ms
+2024-10-15 23:05:00 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@76a36b71: 15 ms
+2024-10-15 23:05:00 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4204541c: 22 ms
+2024-10-15 23:05:00 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5f2606b: 14 ms
+2024-10-15 23:05:00 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2cf23c81: 7 ms
+2024-10-15 23:05:00 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3624da92: 0 ms
+2024-10-15 23:06:48 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-15 23:06:56 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-15 23:06:57 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-15 23:06:59 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-15 23:07:09 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-15 23:07:09 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-15 23:07:09 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-15 23:09:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-15 23:09:40 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-15 23:09:41 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-15 23:09:43 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-15 23:09:53 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-15 23:09:54 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-15 23:09:54 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-15 23:11:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-15 23:11:19 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-15 23:11:20 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-15 23:11:22 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-15 23:11:33 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-15 23:11:33 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-15 23:11:33 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 24 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:56:23 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\AppData\Local\Temp\testng-eclipse--719444873\testng-customsuite.xml
+
+2024-10-16 12:56:24 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 16 ms.
+2024-10-16 12:56:24 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4f936da8: 337 ms
+2024-10-16 12:56:24 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@51df223b: 25 ms
+2024-10-16 12:56:24 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5f3b9c57: 22 ms
+2024-10-16 12:56:24 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@28a0fd6c: 12 ms
+2024-10-16 12:56:24 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@65e61854: 14 ms
+2024-10-16 12:56:24 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1568159: 0 ms
+2024-10-16 12:56:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 12:56:53 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 12:56:54 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 12:56:58 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 12:57:07 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 12:57:07 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 12:57:07 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 12:57:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 12:58:09 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 12:58:09 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 12:58:13 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 12:58:22 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 12:58:22 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 12:58:22 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 12:59:46 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:00:05 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:00:06 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 13:00:09 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 13:00:28 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:00:46 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:00:46 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 13:00:50 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 13:01:08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:01:27 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:01:28 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 13:01:31 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 13:01:38 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 13:01:38 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 13:01:38 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 13:01:43 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 13:06:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:07:11 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:07:11 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 13:07:15 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 13:07:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:07:49 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:07:50 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 13:07:53 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 13:07:54 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 13:07:54 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 13:07:54 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 13:07:58 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 13:07:58 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 13:12:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-10-16 13:12:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+2024-10-16 13:12:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 13:12:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 13:12:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 13:12:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 13:12:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 13:12:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 13:12:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2024-10-16 13:12:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2024-10-16 13:12:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 13:12:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-10-16 13:12:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\AppData\Local\Temp\testng-eclipse-475030775\testng-customsuite.xml
+
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6175619b: 138 ms
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@76a36b71: 23 ms
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4204541c: 29 ms
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5f2606b: 10 ms
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2cf23c81: 9 ms
+2024-10-16 13:12:39 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3624da92: 0 ms
+2024-10-16 13:12:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:13:10 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:13:11 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 13:13:15 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 13:13:22 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 13:13:22 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 13:13:22 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 13:13:26 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 13:13:26 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 13:14:37 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:14:55 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:14:56 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 13:14:58 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 13:15:07 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 13:15:07 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 13:15:07 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 13:15:11 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 13:15:11 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 13:16:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:16:12 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:16:13 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 13:16:16 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 13:16:18 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 13:16:18 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 13:16:18 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 13:16:20 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 13:16:31 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 13:16:31 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 13:17:58 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:18:23 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:18:24 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 13:18:24 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 13:18:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:19:03 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:19:04 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 13:19:04 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 13:20:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:20:32 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:20:32 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 13:20:35 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 13:20:37 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 13:20:37 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 13:20:37 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 13:20:40 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 13:20:50 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 13:20:50 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 13:24:37 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:24:49 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:24:50 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 13:24:53 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 13:25:03 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 13:25:03 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 13:25:03 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 13:25:06 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 13:25:16 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 13:25:16 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 13:26:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:26:28 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:26:28 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 13:26:32 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 13:26:40 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 13:26:40 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 13:26:40 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 13:26:43 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 13:26:53 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 13:26:53 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 13:27:46 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:27:57 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:27:57 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 13:28:00 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 13:28:12 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 13:28:12 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 13:28:21 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:28:30 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:28:31 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 13:28:33 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 13:28:41 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 13:28:41 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 13:28:41 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 13:28:45 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 13:28:47 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 13:28:47 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 13:29:34 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:29:42 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:29:43 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 13:29:46 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 13:29:58 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 13:29:58 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 13:30:06 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:30:28 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:30:29 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 13:30:33 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 13:30:35 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 13:30:35 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 13:30:35 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 13:30:39 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 13:30:39 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 13:34:01 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:34:12 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:34:12 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 13:34:15 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 13:34:23 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 13:34:23 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 13:34:23 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 13:34:27 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 13:34:27 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 13:36:29 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:36:42 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:36:43 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 13:36:46 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 13:36:55 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 13:36:55 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 13:36:55 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 13:36:59 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 13:36:59 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 13:36:59 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 13:37:09 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 13:37:09 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 13:43:14 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:43:32 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:43:33 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 13:43:36 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 13:43:39 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 13:43:39 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 13:43:39 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 13:43:43 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 13:43:43 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 13:43:43 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 13:43:53 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 13:43:53 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 13:48:57 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:49:17 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:49:18 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 13:49:22 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 13:49:32 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 13:49:32 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 13:49:32 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 13:49:36 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 13:49:36 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 13:49:36 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 13:49:46 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 13:49:46 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 13:51:30 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:51:41 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:51:42 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 13:51:44 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 13:51:56 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 13:51:56 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 13:51:56 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 13:52:00 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 13:52:00 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 13:54:23 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 13:54:41 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 13:54:42 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 13:54:46 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 13:54:48 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 13:54:48 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 13:54:48 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 13:54:52 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 13:54:52 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 13:54:52 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 13:55:02 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 13:55:02 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 16:54:16 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 16:54:43 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 16:54:44 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 16:54:47 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 16:54:55 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 16:54:55 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 16:54:55 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 16:54:59 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 16:55:00 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 16:55:00 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 16:58:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 16:58:14 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 16:58:14 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 16:58:18 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 16:58:27 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 16:58:27 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 16:58:27 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 16:58:31 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 16:58:31 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 16:58:31 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 16:58:51 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 16:58:51 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\AppData\Local\Temp\testng-eclipse--802453609\testng-customsuite.xml
+
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6175619b: 106 ms
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@76a36b71: 46 ms
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4204541c: 32 ms
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5f2606b: 18 ms
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2cf23c81: 9 ms
+2024-10-16 17:12:48 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3624da92: 0 ms
+2024-10-16 17:12:58 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 17:13:17 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 17:13:17 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 17:13:21 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 17:13:31 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 17:13:31 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 17:13:31 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 17:13:35 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 17:13:35 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 17:13:35 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 17:13:45 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 17:13:45 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 17:20:58 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 17:21:25 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 17:21:25 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 17:21:29 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 17:21:41 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 17:21:41 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 17:21:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 17:21:59 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 17:22:00 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 17:22:02 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 17:22:14 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 17:22:14 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 17:22:14 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 17:22:18 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 17:22:19 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 17:22:19 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 17:22:29 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 17:22:29 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 17:44:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 17:44:19 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 17:44:20 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 17:44:23 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 17:44:26 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 17:44:26 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 17:44:26 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 17:44:30 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 17:44:41 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 17:44:41 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 20:23:09 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 20:23:28 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 20:23:29 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 20:23:32 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 20:23:44 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 20:23:44 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 20:24:58 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 20:25:17 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 20:25:17 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 20:25:20 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 20:25:27 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 20:25:27 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 20:25:27 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 20:25:31 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 20:25:41 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 20:25:41 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 20:27:50 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 20:28:00 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 20:28:01 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 20:28:03 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 20:28:11 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 20:28:11 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 20:28:11 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 20:28:15 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 20:28:16 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 20:28:16 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 20:29:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 20:29:18 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 20:29:18 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 20:29:21 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 20:29:23 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 20:29:23 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 20:29:23 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 20:29:27 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 20:29:27 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 20:30:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 20:30:22 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 20:30:22 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 20:30:25 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 20:30:27 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 20:30:27 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 20:30:27 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 20:30:30 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 20:30:50 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 20:30:50 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 20:33:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 20:33:25 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 20:33:26 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 20:33:30 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 20:33:32 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 20:33:32 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 20:33:32 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 20:33:35 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 20:33:37 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 20:33:37 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 20:33:57 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 20:33:57 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 20:59:40 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 20:59:49 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 20:59:49 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 20:59:53 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 21:00:01 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 21:00:01 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 21:00:01 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 21:00:05 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 21:00:06 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 21:00:06 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 21:00:26 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 21:00:26 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 21:02:00 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 21:02:08 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 21:02:08 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 21:02:12 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 21:02:18 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 21:02:18 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 21:02:18 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 21:02:25 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 21:02:26 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 21:02:26 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 21:02:26 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-16 21:02:27 [main] ERROR testCase.TC003_AddUser - ***Postalcode Updated***
+2024-10-16 21:02:27 [main] ERROR testCase.TC003_AddUser - ***Searched***
+2024-10-16 21:02:37 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 21:02:37 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 21:04:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 21:04:14 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 21:04:14 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 21:04:17 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 21:04:29 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 21:04:29 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 21:04:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 21:04:43 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 21:04:43 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 21:04:45 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 21:04:48 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 21:04:48 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 21:04:48 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 21:04:51 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 21:04:52 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 21:04:52 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 21:04:53 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-16 21:04:53 [main] ERROR testCase.TC003_AddUser - ***Postalcode Updated***
+2024-10-16 21:04:53 [main] ERROR testCase.TC003_AddUser - ***Searched***
+2024-10-16 21:04:54 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 21:04:54 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 21:19:41 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 21:19:52 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 21:19:54 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 21:19:54 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 21:20:12 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 21:20:21 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 21:20:22 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 21:20:24 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 21:20:26 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 21:20:26 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 21:20:26 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 21:20:30 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 21:20:31 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 21:20:31 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 21:20:31 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-16 21:20:32 [main] ERROR testCase.TC003_AddUser - ***Postalcode Updated***
+2024-10-16 21:20:32 [main] ERROR testCase.TC003_AddUser - ***Searched***
+2024-10-16 21:20:53 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 21:20:53 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 21:22:09 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 21:22:16 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 21:22:17 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 21:22:20 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 21:22:28 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 21:22:28 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 21:22:28 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 21:22:32 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 21:22:33 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 21:22:33 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 21:22:33 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-16 21:22:34 [main] ERROR testCase.TC003_AddUser - ***Postalcode Updated***
+2024-10-16 21:22:34 [main] ERROR testCase.TC003_AddUser - ***Searched***
+2024-10-16 21:22:55 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 21:22:55 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 21:27:00 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 21:27:11 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 21:27:12 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 21:27:15 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 21:27:17 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 21:27:17 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 21:27:17 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 21:27:21 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 21:27:22 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 21:27:22 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 21:27:23 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-16 21:27:23 [main] ERROR testCase.TC003_AddUser - ***Postalcode Updated***
+2024-10-16 21:27:23 [main] ERROR testCase.TC003_AddUser - ***Searched***
+2024-10-16 21:27:44 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 21:27:44 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 21:33:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 21:33:28 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 21:33:28 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 21:33:31 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 21:33:34 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 21:33:34 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 21:33:34 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 21:33:37 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 21:33:37 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 21:33:53 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 21:34:03 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 21:34:04 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 21:34:07 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 21:34:18 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 21:34:18 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 21:34:18 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 21:34:23 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 21:34:24 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 21:34:24 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 21:34:53 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 21:35:03 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 21:35:04 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 21:35:06 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 21:35:09 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 21:35:09 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 21:35:09 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 21:35:12 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 21:35:13 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 21:35:13 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 21:36:14 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 21:36:22 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 21:36:22 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 21:36:25 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 21:36:37 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 21:36:37 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 21:37:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 21:37:11 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 21:37:11 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 21:37:15 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 21:37:22 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 21:37:22 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 21:37:22 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 21:37:26 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 21:37:27 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 21:37:27 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 21:37:27 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-16 21:37:27 [main] ERROR testCase.TC003_AddUser - ***Postalcode Updated***
+2024-10-16 21:37:28 [main] ERROR testCase.TC003_AddUser - ***Searched***
+2024-10-16 21:37:49 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 21:37:49 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 21:41:14 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 21:41:36 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 21:41:37 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 21:41:39 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 21:41:48 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 21:41:48 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 21:41:48 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 21:41:52 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 21:41:53 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 21:41:53 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 21:41:53 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-16 21:41:53 [main] ERROR testCase.TC003_AddUser - ***Postalcode Updated***
+2024-10-16 21:41:53 [main] ERROR testCase.TC003_AddUser - ***Searched***
+2024-10-16 21:42:15 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 21:42:15 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 21:43:40 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 21:43:58 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 21:43:58 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 21:44:01 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 21:44:11 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 21:44:11 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 21:44:11 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 21:44:14 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 21:44:15 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 21:44:15 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 21:44:15 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-16 21:44:15 [main] ERROR testCase.TC003_AddUser - ***Postalcode Updated***
+2024-10-16 21:44:15 [main] ERROR testCase.TC003_AddUser - ***Searched***
+2024-10-16 21:44:36 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 21:44:36 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 21:51:59 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 21:52:13 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 21:52:14 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 21:52:16 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 21:52:28 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 21:52:28 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 21:52:34 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 21:52:44 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 21:52:45 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 21:52:48 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 21:52:54 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 21:52:54 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 21:52:54 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 21:52:57 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 21:52:58 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 21:52:58 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 21:53:16 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 21:53:34 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 21:53:34 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 21:53:37 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 21:53:49 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 21:53:49 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 21:53:49 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 21:53:52 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 21:53:53 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 21:53:53 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 21:54:32 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 21:54:49 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 21:54:50 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 21:54:52 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 21:54:54 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 21:54:54 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 21:54:54 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 21:54:58 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 21:55:00 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 21:55:00 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 21:55:48 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 21:55:55 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 21:55:56 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 21:55:59 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 21:56:11 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 21:56:11 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 21:56:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 21:56:32 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 21:56:32 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 21:56:35 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 21:56:47 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 21:56:47 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 21:56:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 21:57:01 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 21:57:02 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 21:57:04 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 21:57:11 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 21:57:11 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 21:57:11 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 21:57:15 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 21:57:17 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 21:57:17 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 21:57:17 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-16 21:57:17 [main] ERROR testCase.TC003_AddUser - ***Postalcode Updated***
+2024-10-16 21:57:17 [main] ERROR testCase.TC003_AddUser - ***Searched***
+2024-10-16 21:57:38 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 21:57:38 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 21:59:28 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 21:59:38 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 21:59:39 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 21:59:41 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 21:59:49 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 21:59:49 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 21:59:49 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 21:59:52 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 21:59:53 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 21:59:53 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 21:59:54 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-16 21:59:54 [main] ERROR testCase.TC003_AddUser - ***Postalcode Updated***
+2024-10-16 21:59:54 [main] ERROR testCase.TC003_AddUser - ***Searched***
+2024-10-16 22:00:15 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 22:00:15 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 22:10:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 22:10:25 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 22:10:26 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 22:10:30 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 22:10:32 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 22:10:32 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 22:10:32 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 22:10:35 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 22:10:36 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 22:10:36 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 22:10:36 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-16 22:10:37 [main] ERROR testCase.TC003_AddUser - ***Postalcode Updated***
+2024-10-16 22:10:37 [main] ERROR testCase.TC003_AddUser - ***Searched***
+2024-10-16 22:10:47 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 22:10:47 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 22:11:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 22:12:10 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 22:12:11 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 22:12:13 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 22:12:21 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 22:12:22 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 22:12:22 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 22:12:25 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 22:12:26 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 22:12:26 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 22:12:26 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-16 22:12:36 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 22:12:36 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 22:21:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 22:21:32 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 22:21:33 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 22:21:36 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 22:21:44 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 22:21:44 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 22:21:44 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 22:21:48 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 22:21:49 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 22:21:49 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 22:21:49 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-16 22:21:49 [main] ERROR testCase.TC003_AddUser - ***Postalcode Updated***
+2024-10-16 22:21:49 [main] ERROR testCase.TC003_AddUser - ***Searched***
+2024-10-16 22:21:59 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 22:21:59 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 22:54:32 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 22:54:45 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 22:54:45 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 22:54:48 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 22:54:57 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 22:54:57 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 22:54:57 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 22:55:01 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 22:55:02 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 22:55:02 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 22:55:24 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 22:55:35 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 22:55:35 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 22:55:39 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 22:55:46 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 22:55:46 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 22:55:46 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 22:55:50 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 22:55:51 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 22:55:51 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 22:55:51 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-16 22:55:51 [main] ERROR testCase.TC003_AddUser - ***Postalcode Updated***
+2024-10-16 22:55:51 [main] ERROR testCase.TC003_AddUser - ***Searched***
+2024-10-16 22:56:13 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 22:56:13 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 22:59:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 23:00:07 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 23:00:08 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 23:00:11 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 23:00:13 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 23:00:13 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 23:00:13 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 23:00:16 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 23:00:17 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 23:00:17 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 23:00:17 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-16 23:00:18 [main] ERROR testCase.TC003_AddUser - ***Postalcode Updated***
+2024-10-16 23:00:18 [main] ERROR testCase.TC003_AddUser - ***Searched***
+2024-10-16 23:00:39 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 23:00:39 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 23:03:37 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 23:03:44 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 23:03:45 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 23:03:47 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 23:03:55 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 23:03:55 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 23:03:55 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 23:03:59 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 23:04:00 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 23:04:00 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 23:04:00 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-16 23:04:01 [main] ERROR testCase.TC003_AddUser - ***Postalcode Updated***
+2024-10-16 23:04:01 [main] ERROR testCase.TC003_AddUser - ***Searched***
+2024-10-16 23:04:32 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 23:04:32 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 23:14:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 23:14:25 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 23:14:26 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 23:14:29 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 23:14:41 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 23:14:41 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 23:14:48 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 23:14:58 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 23:14:59 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 23:15:02 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 23:15:14 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 23:15:14 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-16 23:15:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-16 23:15:31 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-16 23:15:32 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-16 23:15:35 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-16 23:15:42 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-16 23:15:42 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-16 23:15:42 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-16 23:15:46 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-16 23:15:47 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-16 23:15:47 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-16 23:15:48 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-16 23:15:48 [main] ERROR testCase.TC003_AddUser - ***Postalcode Updated***
+2024-10-16 23:15:48 [main] ERROR testCase.TC003_AddUser - ***Searched***
+2024-10-16 23:16:40 [main] ERROR testCase.TC003_AddUser - ***Address Updated***
+2024-10-16 23:16:50 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-16 23:16:50 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-17 09:46:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-17 09:46:51 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-17 09:46:51 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-17 09:46:55 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-17 09:47:07 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-17 09:47:07 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-17 09:47:14 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-17 09:47:22 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-17 09:47:23 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-17 09:47:26 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-17 09:47:28 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-17 09:47:28 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-17 09:47:28 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-17 09:47:33 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-17 09:47:33 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-17 09:48:01 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-17 09:48:20 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-17 09:48:20 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-17 09:48:23 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-17 09:48:25 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-17 09:48:25 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-17 09:48:25 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-17 09:48:29 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-17 09:48:30 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-17 09:48:30 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-17 09:50:16 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-17 09:50:22 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-17 09:50:23 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-17 09:50:26 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-17 09:50:33 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-17 09:50:33 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-17 09:50:33 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-17 09:50:37 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-17 09:50:39 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-17 09:50:39 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-17 10:36:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-17 10:36:21 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-17 10:36:22 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-17 10:36:25 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-17 10:36:27 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-17 10:36:27 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-17 10:36:27 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-17 10:36:31 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-17 10:36:32 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-17 10:36:32 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-17 10:47:43 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-17 10:48:00 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-17 10:48:00 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-17 10:48:03 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-17 10:48:05 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-17 10:48:05 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-17 10:48:05 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-17 10:48:09 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-17 10:48:10 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-17 10:48:10 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-17 10:48:11 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-17 10:48:11 [main] ERROR testCase.TC003_AddUser - ***Postalcode Updated***
+2024-10-17 10:48:11 [main] ERROR testCase.TC003_AddUser - ***Searched***
+2024-10-17 10:49:03 [main] ERROR testCase.TC003_AddUser - ***Address Updated***
+2024-10-17 10:49:13 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-17 10:49:13 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-17 12:56:00 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-17 12:56:13 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-17 12:56:14 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-17 12:56:17 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-17 12:56:23 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-17 12:56:23 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-17 12:56:23 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-17 12:56:27 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-17 12:56:29 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-17 12:56:29 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-17 12:56:29 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-17 12:56:30 [main] ERROR testCase.TC003_AddUser - ***Postalcode Updated***
+2024-10-17 12:56:30 [main] ERROR testCase.TC003_AddUser - ***Searched***
+2024-10-17 12:57:21 [main] ERROR testCase.TC003_AddUser - ***Address Updated***
+2024-10-17 12:57:31 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-17 12:57:31 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-17 13:00:27 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-17 13:00:37 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-17 13:00:38 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-17 13:00:41 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-17 13:00:53 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-17 13:00:53 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-17 13:01:04 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-17 13:01:13 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-17 13:01:14 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-17 13:01:17 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-17 13:01:28 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-17 13:01:28 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-17 13:01:28 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-17 13:01:32 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-17 13:01:33 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-17 13:01:33 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-17 13:01:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-17 13:02:03 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-17 13:02:04 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-17 13:02:07 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-17 13:02:13 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-17 13:02:13 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-17 13:02:13 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-17 13:02:18 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-17 13:02:19 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-17 13:02:19 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-17 13:02:33 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-17 13:02:41 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-17 13:02:41 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-17 13:02:44 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-17 13:02:56 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-17 13:02:56 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-17 13:03:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-17 13:03:16 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-17 13:03:16 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-17 13:03:19 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-17 13:03:27 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-17 13:03:28 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-17 13:03:28 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-17 13:03:31 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-17 13:03:33 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-17 13:03:33 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-17 13:03:33 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-17 13:03:33 [main] ERROR testCase.TC003_AddUser - ***Postalcode Updated***
+2024-10-17 13:03:33 [main] ERROR testCase.TC003_AddUser - ***Searched***
+2024-10-17 13:03:54 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-17 13:03:54 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-17 13:18:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-17 13:18:24 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-17 13:18:25 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-17 13:18:28 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-17 13:18:30 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-17 13:18:30 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-17 13:18:30 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-17 13:18:34 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-17 13:18:35 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-17 13:18:35 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-17 13:18:36 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-17 13:18:36 [main] ERROR testCase.TC003_AddUser - ***Postalcode Updated***
+2024-10-17 13:18:36 [main] ERROR testCase.TC003_AddUser - ***Searched***
+2024-10-17 13:18:37 [main] ERROR testCase.TC003_AddUser - ***Address Updated***
+2024-10-17 13:18:47 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-17 13:18:47 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-17 13:22:48 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-17 13:23:02 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-17 13:23:03 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-17 13:23:05 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-17 13:23:17 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-17 13:23:17 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-17 13:23:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-17 13:23:34 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-17 13:23:36 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-17 13:23:36 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-17 13:23:48 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-17 13:23:58 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-17 13:23:58 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-17 13:24:01 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-17 13:24:14 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-17 13:24:14 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-17 13:24:23 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-17 13:24:31 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-17 13:24:32 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-17 13:24:34 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-17 13:24:36 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-17 13:24:36 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-17 13:24:36 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-17 13:24:40 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-17 13:24:41 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-17 13:24:41 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-17 13:24:41 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-17 13:24:42 [main] ERROR testCase.TC003_AddUser - ***Postalcode Updated***
+2024-10-17 13:24:42 [main] ERROR testCase.TC003_AddUser - ***Searched***
+2024-10-17 13:24:43 [main] ERROR testCase.TC003_AddUser - ***Address Updated***
+2024-10-17 13:24:43 [main] ERROR testCase.TC003_AddUser - ***FName Updated***
+2024-10-17 13:24:43 [main] ERROR testCase.TC003_AddUser - ***LName Updated***
+2024-10-17 13:24:44 [main] ERROR testCase.TC003_AddUser - ***Email Updated***
+2024-10-17 13:24:54 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-17 13:24:54 [main] ERROR testCase.TC003_AddUser - Error occured
+2024-10-17 15:12:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-17 15:12:32 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-17 15:12:33 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-17 15:12:36 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-17 15:12:39 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-17 15:12:39 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-17 15:12:39 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-17 15:12:43 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-17 15:12:45 [main] INFO  testCase.TC003_AddUser - ***Opened the new user popup***
+2024-10-17 15:12:45 [main] ERROR testCase.TC003_AddUser - ***started to fill the fields***
+2024-10-17 15:12:45 [main] ERROR testCase.TC003_AddUser - ***OrgName Updated***
+2024-10-17 15:12:46 [main] ERROR testCase.TC003_AddUser - ***Postalcode Updated***
+2024-10-17 15:12:46 [main] ERROR testCase.TC003_AddUser - ***Searched***
+2024-10-17 15:12:47 [main] ERROR testCase.TC003_AddUser - ***Address Updated***
+2024-10-17 15:12:48 [main] ERROR testCase.TC003_AddUser - ***FName Updated***
+2024-10-17 15:12:49 [main] ERROR testCase.TC003_AddUser - ***LName Updated***
+2024-10-17 15:12:49 [main] ERROR testCase.TC003_AddUser - ***Email Updated***
+2024-10-17 15:12:50 [main] ERROR testCase.TC003_AddUser - ***PNum Updated***
+2024-10-17 15:12:51 [main] INFO  testCase.TC003_AddUser - ***Values saved***
+2024-10-17 17:05:29 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-17 17:05:54 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-17 17:05:54 [main] INFO  testCase.TC003_AddUser - ***Open the login page***
+2024-10-17 17:05:55 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-17 17:05:58 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-17 17:06:09 [main] ERROR testCase.TC003_AddUser - Test failed
+2024-10-17 17:08:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SSELVI\git\Medtronics\master.xml
+
+2024-10-17 17:08:15 [main] INFO  testCase.TC003_AddUser - ***verify to add a new user***
+2024-10-17 17:08:15 [main] INFO  testCase.TC003_AddUser - ***Open the login page***
+2024-10-17 17:08:16 [main] INFO  testCase.TC003_AddUser - ***LoggedIn Success***
+2024-10-17 17:08:19 [main] INFO  testCase.TC003_AddUser - ***Captcha updated***
+2024-10-17 17:08:29 [main] INFO  testCase.TC003_AddUser - ***OTP Entered***
+2024-10-17 17:08:29 [main] INFO  testCase.TC003_AddUser - ***Submitted***
+2024-10-17 17:08:32 [main] INFO  testCase.TC003_AddUser - ***Home Title verified***
+2024-10-17 17:08:32 [main] INFO  testCase.TC003_AddUser - ***add user check started***
+2024-10-17 17:08:33 [main] INFO  testCase.TC003_AddUser - ***Entered into UserAccounts Page***
+2024-10-17 17:08:34 [main] INFO  testCase.TC003_AddUser - Test Failed
+2024-10-17 17:08:34 [main] ERROR testCase.TC003_AddUser - Error occured
